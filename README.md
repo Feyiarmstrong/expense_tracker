@@ -25,18 +25,17 @@ get_expense_by_title() to search expenses by title, and to_dict() to convert the
 
 
 
-
 How to clone the repository
 
 
 Start by cloning this repository to your local machine:
 
-(git clone https://github.com/your-username/expense-tracker.git)
+git clone https://github.com/your-username/expense-tracker.git
 
 Replace your-username with your actual GitHub username.
 
 Navigate to the Project Directory
-(cd expense-tracker)
+cd expense-tracker
 
 After cloning, change into the project directory
 
@@ -50,7 +49,7 @@ How to run the code
 
 To run the code and test the functionality, use the following command:
 
-(python expense_tracker.py)
+python expense_tracker.py
 
 Modify and Test the Code
 
